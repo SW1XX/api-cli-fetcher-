@@ -7,3 +7,4 @@ aplikacja CLI, która pobiera dane z API i zapisuje je do pliku JSON
 [./cli_fetcher --fetch --url ](https://github.com/SW1XX/api-cli-fetcher-.git)
 
 # Możliwość rozszerzenia aplikacji
+jak dodać nowe źródła danych
